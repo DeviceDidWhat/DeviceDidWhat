@@ -1,6 +1,5 @@
 <!-- Header -->
 <div align="center">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DeviceDidWhat.DeviceDidWhat" alt="visitors" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kavya+Bhanvadia!;" alt="Typing SVG" />
   <h3>A passionate CSE undergrad @ IIT Jodhpur 🇮🇳</h3>
