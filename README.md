@@ -8,15 +8,27 @@
 <br>
 
 <!-- About Me -->
+
 <div align="center">
-  <p>
-    🔭 I’m currently working on <b>Full-Stack Development & System Design</b> <br>
-    🌱 I’m currently learning <b>Distributed Systems, Kafka internals & AWS</b> <br>
-    👯 I’m looking to collaborate on <b>Open Source Projects & Hackathons</b> <br>
-    💬 Ask me about <b>C++, Node.js, React, Kafka, or algorithm optimization</b> <br>
-    ⚡ Fun fact: <b>The first computer "bug" was a literal moth stuck in a relay in 1947!</b>
-  </p>
+
+### 👨‍💻 About Me
+
+💻 Computer Science undergraduate at **IIT Jodhpur** passionate about building scalable software and solving challenging algorithmic problems.
+
+🚀 Currently exploring **Backend Engineering, Distributed Systems, System Design, and Cloud Technologies**.
+
+🌱 Learning **Kafka, Redis, Docker, AWS, and Microservices** while strengthening my expertise in **Data Structures & Algorithms**.
+
+🏆 Active Competitive Programmer with experience solving **500+ DSA problems** across LeetCode and Codeforces.
+
+⚡ I enjoy building full-stack applications using **React, Node.js, Express, PostgreSQL, MongoDB**, and modern development tools.
+
+🤝 Open to collaborating on **Open Source**, impactful projects, and hackathons.
+
+💬 Ask me about **C++, Backend Development, React, Node.js, System Design, or DSA**.
+
 </div>
+
 
 <br>
 
