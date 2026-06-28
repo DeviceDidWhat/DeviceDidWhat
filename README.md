@@ -59,10 +59,10 @@
 <br>
 <div align="center">
   <!-- TODO: Replace 'your-best-repo-1' and 'your-best-repo-2' with your actual repository names -->
-  <a href="https://github.com/KavyaBhanvadia/Online-Judge">
+  <a href="https://github.com/DeviceDidWhat/Online-Judge">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KavyaBhanvadia&repo=your-best-repo-1&theme=react&border_radius=10" alt="Project 1" />
   </a>
-  <a href="https://github.com/KavyaBhanvadia/Video-processing-engine">
+  <a href="https://github.com/DeviceDidWhat/Video-processing-engine">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KavyaBhanvadia&repo=your-best-repo-2&theme=react&border_radius=10" alt="Project 2" />
   </a>
 </div>
