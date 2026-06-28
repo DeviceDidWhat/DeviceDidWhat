@@ -3,7 +3,7 @@
   <br>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kavya+Bhanvadia!;" alt="Typing SVG" />
   <h3 align="center">
-   CSE Undergraduate @ IIT Jodhpur | Backend Developer | Competitive Programmer
+   CSE Undergraduate @ IIT Jodhpur | Software Engineer | Competitive Programmer
 </h3>
 
 <p align="center">
