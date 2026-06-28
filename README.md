@@ -60,10 +60,10 @@
 <div align="center">
   <!-- TODO: Replace 'your-best-repo-1' and 'your-best-repo-2' with your actual repository names -->
   <a href="https://github.com/DeviceDidWhat/Online-Judge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeviceDidWhat&repo=your-best-repo-1&theme=react&border_radius=10" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeviceDidWhat&repo=your-Online-Judge&theme=react&border_radius=10" alt="Project 1" />
   </a>
   <a href="https://github.com/DeviceDidWhat/Video-processing-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeviceDidWhat&repo=your-best-repo-2&theme=react&border_radius=10" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeviceDidWhat&repo=your-Video-processing-engine&theme=react&border_radius=10" alt="Project 2" />
   </a>
 </div>
 
