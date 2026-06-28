@@ -51,32 +51,3 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,kafka,redis,postgres,mongodb,mysql,docker,git,github,linux,vscode" alt="Skills Row 2" />
 </div>
 
-<br>
-<hr/>
-
-<!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
-<br>
-<div align="center">
-  <!-- TODO: Replace 'your-best-repo-1' and 'your-best-repo-2' with your actual repository names -->
-  <a href="https://github.com/DeviceDidWhat/Online-Judge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeviceDidWhat&repo=Online-Judge&theme=react&border_radius=10" alt="Project 1" />
-  </a>
-  <a href="https://github.com/DeviceDidWhat/Video-processing-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeviceDidWhat&repo=Video-processing-engine&theme=react&border_radius=10" alt="Project 2" />
-  </a>
-</div>
-
-<br>
-<hr/>
-
-<!-- GitHub & Coding Stats -->
-<h2 align="center">⚡ GitHub & Coding Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=DeviceDidWhat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=DeviceDidWhat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/><br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviceDidWhat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width="450" src="https://leetcard.jacoblin.cool/gdoaQY9keS?theme=react&font=Righteous&ext=activity" alt="LeetCode Stats" />
-</div>
